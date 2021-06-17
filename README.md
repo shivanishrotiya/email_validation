@@ -1,1 +1,1 @@
-# email_validation
+# email_validation_app
